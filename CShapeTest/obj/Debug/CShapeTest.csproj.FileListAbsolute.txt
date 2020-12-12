@@ -1,0 +1,6 @@
+/Users/matsu/Projects/CShapeTest/CShapeTest/bin/Debug/CShapeTest.exe
+/Users/matsu/Projects/CShapeTest/CShapeTest/bin/Debug/CShapeTest.pdb
+/Users/matsu/Projects/CShapeTest/CShapeTest/obj/Debug/CShapeTest.csprojAssemblyReference.cache
+/Users/matsu/Projects/CShapeTest/CShapeTest/obj/Debug/CShapeTest.csproj.CoreCompileInputs.cache
+/Users/matsu/Projects/CShapeTest/CShapeTest/obj/Debug/CShapeTest.exe
+/Users/matsu/Projects/CShapeTest/CShapeTest/obj/Debug/CShapeTest.pdb

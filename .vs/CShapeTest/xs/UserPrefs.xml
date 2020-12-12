@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C71A6D76-EBB5-40C6-A04E-04E693616BBB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CShapeTest/Program.cs">
+    <Files>
+      <File FileName="CShapeTest/Program.cs" Line="11" Column="25" />
+      <File FileName="CShapeTest/IfLoopTest.cs" />
+      <File FileName="CShapeTest/ListTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CShapeTest" expanded="True">
+            <Node name="CShapeTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CShapeTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
