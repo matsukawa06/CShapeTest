@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShapeTest", "CShapeTest\CShapeTest.csproj", "{C71A6D76-EBB5-40C6-A04E-04E693616BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71A6D76-EBB5-40C6-A04E-04E693616BBB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C71A6D76-EBB5-40C6-A04E-04E693616BBB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C71A6D76-EBB5-40C6-A04E-04E693616BBB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C71A6D76-EBB5-40C6-A04E-04E693616BBB}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA6D04A6-DB8B-481A-AF27-FADD4D21BFEF}
+	EndGlobalSection
+EndGlobal
